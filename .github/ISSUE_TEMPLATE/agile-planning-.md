@@ -1,13 +1,4 @@
 ---
-name: 'Agile planning '
-about: 'This template is for user stories '
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: User Story
 about: 'This template is for user stories '
 title: ''
